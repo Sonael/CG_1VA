@@ -1,4 +1,4 @@
-# Computação Gráfica Básica — 1ª VA
+# Computação Gráfica Básica 1ª VA
 
 Carrega uma malha de triângulos 3D de um arquivo de texto, faz a projeção em
 perspectiva dos vértices e preenche os triângulos com o algoritmo de
@@ -23,9 +23,9 @@ python main.py                       # usa o objeto padrao (objetos/calice2.byu)
 python main.py objetos/vaso.byu      # carrega qualquer malha passada como argumento
 ```
 
-- **R** — recarrega os parâmetros da câmera do arquivo `camera.txt` e redesenha
+- **R** - recarrega os parâmetros da câmera do arquivo `camera.txt` e redesenha
   (permite alterar a câmera sem fechar o programa).
-- **ESC** — sair.
+- **ESC** - sair.
 
 
 ## Pipeline
